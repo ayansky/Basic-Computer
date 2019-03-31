@@ -1,0 +1,4 @@
+ADD A,B
+MUL A,B
+XOR A,B
+DIV A,B

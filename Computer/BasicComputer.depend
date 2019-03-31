@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1520179900 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\assembler.c
+	<stdio.h>
+	<stdlib.h>
+	"basicComputer.h"
+
+1520067826 c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\ram.h
+	<stdbool.h>
+
+1520158898 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\ram.c
+	<stdlib.h>
+	<stdio.h>
+	"basicComputer.h"
+
+1520179754 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\top.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520179881 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\alu.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520159080 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\controllogic.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520158898 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\programcounter.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520158898 c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\basiccomputer.h
+	<stdbool.h>
+
+1520181698 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\abbc\alu.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520158898 c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\abbc\basiccomputer.h
+	<stdbool.h>
+
+1520182565 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\abbc\controllogic.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520158898 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\abbc\programcounter.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520158898 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\abbc\ram.c
+	<stdlib.h>
+	<stdio.h>
+	"basicComputer.h"
+
+1520180076 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\abbc\top.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520182374 source:c:\users\ww\desktop\НУ\2 курс\2 семестр\computer systems architecture\assembler\basiccomputer\abbc\assembler.c
+	<stdio.h>
+	<stdlib.h>
+	"basicComputer.h"
+
+1520183620 source:c:\users\lenovo\desktop\basiccomputer\basiccomputer\alu.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520158900 c:\users\lenovo\desktop\basiccomputer\basiccomputer\basiccomputer.h
+	<stdbool.h>
+
+1520182376 source:c:\users\lenovo\desktop\basiccomputer\basiccomputer\assembler.c
+	<stdio.h>
+	<stdlib.h>
+	"basicComputer.h"
+
+1520182566 source:c:\users\lenovo\desktop\basiccomputer\basiccomputer\controllogic.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520158900 source:c:\users\lenovo\desktop\basiccomputer\basiccomputer\programcounter.c
+	<stdio.h>
+	"basicComputer.h"
+
+1520158900 source:c:\users\lenovo\desktop\basiccomputer\basiccomputer\ram.c
+	<stdlib.h>
+	<stdio.h>
+	"basicComputer.h"
+
+1520180078 source:c:\users\lenovo\desktop\basiccomputer\basiccomputer\top.c
+	<stdio.h>
+	"basicComputer.h"
+
